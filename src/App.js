@@ -9,7 +9,7 @@ import store from "./redux";
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router basename="/game-store">
         <div className="App">
           <Header />
           <Routes>
