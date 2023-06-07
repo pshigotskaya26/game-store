@@ -1,6 +1,6 @@
 export const GAMES = [
     {
-        image: '/game-covers/forza_5.jpeg',
+        image: '/game-store/images/forza_5.jpeg',
         title: 'Forza Horizon 5',
         genres: ['Гонки', 'Симулятор', 'Открытый мир'],
         price: 2343,
@@ -9,7 +9,7 @@ export const GAMES = [
         description: "Вас ждёт бесконечный калейдоскоп приключений Horizon! Совершайте увлекательные поездки по невероятно красивому и самобытному миру Мексики за рулём величайших автомобилей в истории. Начните своё приключение Horizon уже сегодня, добавив игру в свой список желаний!",
     },
     {
-        image: '/game-covers/battlefield_2042.jpg',
+        image: '/game-store/images/battlefield_2042.jpg',
         title: 'Battlefield 2042',
         genres: ['Экшен', 'Шутер', 'Война'],
         video: 'https://www.youtube.com/embed/ASzOzrB-a9E',
@@ -18,7 +18,7 @@ export const GAMES = [
         description: 'Battlefield™ 2042 — это шутер от первого лица, в котором серия возвращается к легендарным масштабным сражениям. В будущем, где царит хаос, адаптируйтесь и процветайте на постоянно меняющихся полях боя благодаря своему отряду и арсеналу новейших технологий.'
     },
     {
-        image: '/game-covers/life_is_strange_true_colors.jpeg',
+        image: '/game-store/images/life_is_strange_true_colors.jpeg',
         title: 'Life is Strange True Colors',
         genres: ['Глубокий сюжет', 'Протагонистка'],
         video: 'https://www.youtube.com/embed/b6CkzwVAr0M',
@@ -27,7 +27,7 @@ export const GAMES = [
         description: 'Алекс Чэнь от всех скрывает своё «проклятие» — сверхъестественную способность считывать сильные эмоции других и влиять на них. Но когда её брат погибает — якобы в результате несчастного случая, — Алекс использует её, чтобы узнать правду.'
     },
     {
-        image: '/game-covers/gta_v.jpeg',
+        image: '/game-store/images/gta_v.jpeg',
         title: 'Grand Theft Auto V',
         genres: ['Открытый мир', 'Экшен'],
         video: 'https://www.youtube.com/embed/QkkoHAzjnUs',
@@ -36,7 +36,7 @@ export const GAMES = [
         description: 'Grand Theft Auto V для PC позволяет игрокам исследовать знаменитый мир Лос-Сантоса и округа Блэйн в разрешении до 4k и выше с частотой 60 кадров в секунду.'
     },
     {
-        image: '/game-covers/rainbow_siege.jpeg',
+        image: '/game-store/images/rainbow_siege.jpeg',
         title: 'Tom Clancy\'s Rainbow Six® Siege',
         video: 'https://www.youtube.com/embed/6wlvYh0h63k',
         genres: ['Тактика', 'Шутер'],
@@ -45,7 +45,7 @@ export const GAMES = [
         description: 'Tom Clancy\'s Rainbow Six Осада – это продолжение нашумевшего шутера от первого лица, разработанного студией Ubisoft Montreal.'
     },
     {
-        image: '/game-covers/assassins_creed_valhalla.png',
+        image: '/game-store/images/assassins_creed_valhalla.png',
         title: 'Assassin’s Creed Valhalla',
         genres: ['Паркур', 'РПГ', 'Открытый мир'],
         video: 'https://www.youtube.com/embed/ssrNcwxALS4',
